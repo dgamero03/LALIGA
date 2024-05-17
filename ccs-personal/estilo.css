@@ -2,4 +2,20 @@
     --bs-nav-link-color: black;
     --bs-nav-link-hover-color: grey;
     --bs-nav-link-disabled-color: var(--bs-secondary-color);
+    background-color: #F4F4F4;
+    padding: 15px;
+    border-radius: 6px;
 }
+
+body{
+    background-image:url("fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.resultclubes{
+    background-color: #F4F4F4;
+    padding: 10px;
+    border-radius: 6px;  
+}
+   
